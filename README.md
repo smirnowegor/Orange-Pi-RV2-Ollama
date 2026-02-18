@@ -2,6 +2,8 @@
 
 Standalone repository for Orange Pi RV2 system fixes and AI/Ollama setup.
 
+Русская версия: `README.ru.md` — краткая и полная документация на русском доступна в репозитории.
+
 ## Contents
 
 - OP_RV2_UBUNTU_Fix
@@ -37,3 +39,16 @@ sudo ./test_ollama_rv2.sh
 - System fixes: OP_RV2_UBUNTU_Fix/README.md
 - Ollama setup: ORANGE PI RV2  AI READY/README.md
 - User guide: ORANGE PI RV2  AI READY/USER_GUIDE.md
+
+## ☕ Support
+If my work has been helpful to you:  
+* [Support on Zen](https://dzen.ru/id/5e32d0969929ba40059b5892?donate=true)  
+* [Telegram Channel](https://t.me/tribute/app?startapp=dvHM)  
+* [Donate](https://donate.stream/yoomoney410013774736621)  
+* **Crypto Wallet (USDT TRC20):**  
+  <code>TCHekdJZFndXpDrHZGuTmqFNcqhWBTTzPr</code>
+
+## Contact Me & My Channels
+* [YouTube](https://www.youtube.com/@udobni_dom)  
+* [Telegram Channel](https://t.me/u2smart4home)  
+* [Yandex Zen](https://dzen.ru/id/5e32d0969929ba40059b5892)
