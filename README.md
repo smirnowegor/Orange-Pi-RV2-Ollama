@@ -21,6 +21,7 @@ Standalone repository for Orange Pi RV2 system fixes and AI/Ollama setup.
 
 ```
 cd OP_RV2_UBUNTU_Fix
+chmod +x ./00_setup_fixes.sh
 sudo ./00_setup_fixes.sh
 ```
 
